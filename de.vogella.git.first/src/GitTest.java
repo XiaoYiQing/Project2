@@ -1,5 +1,7 @@
 
 public class GitTest {
+	
+	
 	public static void main(String[]args){
 		//This is a merge test btw master and br3 branches
 		
@@ -11,5 +13,6 @@ public class GitTest {
 		
 		System.out.println("Hopefully the merge with master by br3" +
 				"will not result in too much conflict");
+		System.out.println("I like candy!");
 	}
 }
