@@ -16,9 +16,5 @@ public class GitTest {
 		System.out.println("I like candy!");
 		System.out.println("Hopefully the merge with master by br3" +
 				"will not result in too much conflict");
-		
-		System.out.println("I like candy!");
-		System.out.println("Hopefully the merge with master by br3" +
-				"will not result in too much conflict");
 	}
 }
