@@ -1,8 +1,8 @@
 
 public class GitTest {
 	//This should be added to br3, originating from master
-
 	
+	public int var1;
 	
 	public static void main(String[]args){
 		//This is a merge test btw master and br3 branches
@@ -16,5 +16,6 @@ public class GitTest {
 		System.out.println("I like candy!");
 		System.out.println("Hopefully the merge with master by br3" +
 				"will not result in too much conflict");
+
 	}
 }
