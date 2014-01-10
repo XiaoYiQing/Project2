@@ -6,5 +6,7 @@ public class GitTest {
 		
 		System.out.println("This is exclusively" +
 				"within br3");
+		
+		System.out.println("I like candy!");
 	}
 }
