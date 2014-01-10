@@ -1,6 +1,7 @@
 
 public class GitTest {
 	
+	public int var1;
 	
 	public static void main(String[]args){
 		//This is a merge test btw master and br3 branches
